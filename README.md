@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/vijay_viju1" target="blank"><img src="https://img.shields.io/twitter/follow/vijay_viju1?logo=twitter&style=for-the-badge" alt="vijay_viju1" /></a>
- <a href="https://vijaykumarr1452.github.io/" target="blank"><img src="https://img.shields.io/twitter/portfolio/vijay_viju1?logo=twitter&style=for-the-badge" alt="vijay_viju1" /></a> </p>
+
 <a href="https://vijaykumarr1452.github.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Visit_!!-Portfolio-violet?style=for-the-badge&logo=appveyor&logoColor=orange" alt="Visit Portfolio Badge">
-</a>
+</a>  </p>
 
 - 🔭 I’m currently working on **SAAS Application.**
 
@@ -26,9 +26,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://linkedin.com/in/rachuri-vijaykumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachuri-vijaykumar" height="30" width="40" /></a>
 <a href="https://dev.to/vijayr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vijayr00" height="30" width="40" /></a>
+ 
 <a href="https://twitter.com/vijay_viju1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijay_viju1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rachuri-vijaykumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachuri-vijaykumar" height="30" width="40" /></a>
+
 <a href="https://hashnode.com/@vijayr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vijayr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rachuri-vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachuri-vijay" height="30" width="40" /></a>
 </p>
