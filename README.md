@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/vijay_viju1" target="blank"><img src="https://img.shields.io/twitter/follow/vijay_viju1?logo=twitter&style=for-the-badge" alt="vijay_viju1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vijay_viju1" target="blank"><img src="https://img.shields.io/twitter/follow/vijay_viju1?logo=twitter&style=for-the-badge" alt="vijay_viju1" /></a>
+ <a href="https://vijaykumarr1452.github.io/" target="blank"><img src="https://img.shields.io/twitter/portfolio/vijay_viju1?logo=twitter&style=for-the-badge" alt="vijay_viju1" /></a> </p>
+<a href="https://vijaykumarr1452.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Visit_!!-Portfolio-violet?style=for-the-badge&logo=appveyor&logoColor=orange" alt="Visit Portfolio Badge">
+</a>
 
 - 🔭 I’m currently working on **SAAS Application.**
 
