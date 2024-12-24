@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **vijaykumarit45@gmail.com**
 
-- 📄 Know about my experiences [here](https://tinyurl.com/devres0/)
+- 📄 Know about my work proficiency [here](https://tinyurl.com/devres0/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
