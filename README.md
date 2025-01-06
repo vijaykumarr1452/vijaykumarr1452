@@ -14,22 +14,22 @@
 
 - 👯 I’m looking to collaborate on **UI/UX,Full Stack Web Apps,ML/AI.**
 
-- 👨‍💻 All of my projects are available at [here](https://vijaykumarr1452.github.io/)
+- 👨‍💻 All of my projects are available at [here]() 
 
-- 📝 I regularly write articles on [here](https://dev.to/vijayr00/public-learning-adventure-45h2)
+- 📝 I regularly write articles on [here]()
 
 - 💬 Ask me about **Python,React,Next,UI/UX,AI,ML,Django,AWS**
 
-- 📫 How to reach me **vijaykumarit45@gmail.com**
+- 📫 How to reach me **vijayproject0@gmail.com**
 
-- 📄 Know about my work proficiency [here](https://tinyurl.com/devres0/)
+- 📄 Know about my work proficiency [here]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/rachuri-vijaykumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachuri-vijaykumar" height="30" width="40" /></a><a href="https://dev.to/vijayr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vijayr00" height="30" width="40" /></a> 
 <a href="https://twitter.com/vijay_viju1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijay_viju1" height="30" width="40" /></a>
-<a href="https://hashnode.com/@vijayr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vijayr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rachuri-vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachuri-vijay" height="30" width="40" /></a>
+<!-- <a href="https://hashnode.com/@vijayr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vijayr" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/rachuri-vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachuri-vijay" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
