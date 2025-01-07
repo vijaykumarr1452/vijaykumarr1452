@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar R.</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/vijay_viju1?logo=twitter&style=for-the-badge" alt="vi" /></a>
+<p align="left"> 
+<!--   <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/vijay_viju1?logo=twitter&style=for-the-badge" alt="vi" /></a> -->
 
 <a href="https://vijaykumarr1452.github.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Visit_!!-Portfolio-violet?style=for-the-badge&logo=appveyor&logoColor=orange" alt="Visit Portfolio Badge">
