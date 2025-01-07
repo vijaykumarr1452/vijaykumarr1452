@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
+<h1 align="center">Hi 👋, I'm Vijay Kumar R.</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/vijay_viju1?logo=twitter&style=for-the-badge" alt="vi" /></a>
@@ -8,21 +8,21 @@
   <img src="https://img.shields.io/badge/Visit_!!-Portfolio-violet?style=for-the-badge&logo=appveyor&logoColor=orange" alt="Visit Portfolio Badge">
 </a>  </p>
 
-- 🔭 I’m currently working on **SAAS Application.**
+- 🔭 I’m currently working on *SAAS App easing financial workflow*
 
-- 🌱 I’m currently learning **React,Next,AWS,Backend Development.**
+- 🌱 I’m currently exploring deeper into **Python,Next,AWS,Backend Development**
 
-- 👯 I’m looking to collaborate on **UI/UX,Full Stack Web Apps,ML/AI.**
+- 👯 I’m looking forward to any collaboration for building a product.
 
-- 👨‍💻 All of my projects are available at [here]() 
+- 👨‍💻 All of my projects are available at [here](https://github.com/vijaykumarr1452) 
 
 - 📝 I regularly write articles on [here]()
 
-- 💬 Ask me about **Python,React,Next,UI/UX,AI,ML,Django,AWS**
+- 💬 Ask me about **Python,React,Django,AWS,ML**
 
-- 📫 How to reach me **vijayproject0@gmail.com**
+- 📫 How to reach me **rachuri.vijay147@gmail.com**
 
-- 📄 Know about my work proficiency [here]()
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
