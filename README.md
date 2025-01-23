@@ -5,7 +5,8 @@
 
 <a href="https://vijaykumarr1452.github.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Visit_!!-Portfolio-violet?style=for-the-badge&logo=appveyor&logoColor=orange" alt="Visit Portfolio Badge">
-</a>  </p>
+</a>  
+<a href="https://x.com/techcampz/" target="blank" rel="noopener noreferrer> < img src="https://img.shields.io/twitter/follow/techcampz?logo=twitter&style=for-the-badge" alt="techcampz" /></a>  </p>
 
 - 🔭 I’m currently working on *SAAS App easing financial workflow*
 
