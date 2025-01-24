@@ -6,7 +6,7 @@
 <a href="https://vijaykumarr1452.github.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Visit_!!-Portfolio-violet?style=for-the-badge&logo=appveyor&logoColor=orange" alt="Visit Portfolio Badge">
 </a>  
-<a href="https://twitter.com/techcampz/" target="blank" rel="noopener noreferrer"> < img src="https://img.shields.io/twitter/follow/techcampz?logo=twitter&style=for-the-badge" alt="techcampz"></a>  </p>
+<a href="https://twitter.com/techcampz/" target="blank" rel="noopener noreferrer"> < img src="https://img.shields.io/twitter/follow/techcampz?logo=twitter&style=for-the-badge" alt="techcampz"></a>  
 
 - 🔭 I’m currently working on *SAAS App easing financial workflow*
 
