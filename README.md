@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/vijaykumarr1452) 
 
-- 📝 I regularly write articles on [here](https://dev.to/vijayr00/public-learning-adventure-45h2)
+- 📝 I regularly write articles on [here](https://dev.to/vijayr00/)
 
 - 💬 Ask me about **Python,React,Django,AWS,ML**
 
